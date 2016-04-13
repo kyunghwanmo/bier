@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  country: 
+  price: 1
+  taste: MyText
+  smell: MyString
+  durability: 2016-04-13 16:14:21
+  use: MyString
+  purchasing_info: MyString
+  pronunciation: MyString
+  rating: 1.5
+  notes: MyText
+
+two:
+  type: 
+  country: 
+  price: 1
+  taste: MyText
+  smell: MyString
+  durability: 2016-04-13 16:14:21
+  use: MyString
+  purchasing_info: MyString
+  pronunciation: MyString
+  rating: 1.5
+  notes: MyText
